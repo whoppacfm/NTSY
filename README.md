@@ -1,2 +1,1 @@
-# NTSY
-Visual Basic
+https://github.com/whoppacfm/NTSY/wiki
